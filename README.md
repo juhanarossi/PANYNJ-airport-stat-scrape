@@ -1,4 +1,4 @@
-# Airport Data Practice Field
+# Airport Data Practice 
 ## Technical Description
 This repo contains a bits of code that I wrote to practice data analysis and visualization. It has script for a simple scrape template and some ´ggplot2´ visualizations.
 ## Overview
