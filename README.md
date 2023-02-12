@@ -1,4 +1,4 @@
-# Practice Scrape of Airpot Data
+# Practice Scrape of Airport Data
 ## Overview
 The objective of this project was to learn ways to extract data quickly from pdfs in order to create a simple chart. When working with straightforward news stories, sometimes one faces a situation when some data is easily available in a conveniet spreadsheet format. But then additional data needed for a simple chart to illustrate the story is only available in pdfs. In this project, data provided by the Finnish airport operator [Finavia](https://www.finavia.fi/en/about-finavia/about-air-traffic/traffic-statistics/traffic-statistics-year) was easily available in Excel format. However, [Port Authority of New York and New Jersey (PANYNJ)](https://www.panynj.gov/airports/en/statistics-general-info.html) had the same data in individual pdf files. To create a chart comparing developments in passenger traffic at Helsinki and JFK airports, I needed to extract the data from the PANYNJ pdfs.
 ## Technical Description
